@@ -7,10 +7,10 @@ main:
     url: "/#-news"
   
   - title: "Academic Service"
-    url: "/#-Academic Service"
+    url: "/#-Academic-Service"
 
   - title: "Selected Publications"
-    url: "/#-Selected Publications"
+    url: "/#-Selected-Publications"
 
 
   # - title: "Honors and Awards"

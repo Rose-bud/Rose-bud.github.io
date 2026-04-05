@@ -31,7 +31,13 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS 2025, Spotlight (accepatance rate=3.19%)**.
 
 
-# 📝 Publications 
+# 📖 Academic Service
+
+Serving as a reviewer for conferences and journals including
+
+**NeurIPS, ICML, CVPR, ECCV, AAAI, ACM MM, IJCAI, TIP, TIFS, TMM, and PR**.
+
+# 📝 Selected Publications 
 <!--
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -66,7 +72,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 **Chao Su**, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng, Yuan Sun
 
-Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
+Fourty AAAI Conference on Artificial Intelligence (AAAI-26), **oral**.
 
 </div>
 </div>
@@ -86,7 +92,7 @@ Fourty AAAI Conference on Artificial Intelligence (AAAI-26),oral.
 
 **Chao Su**, Likang Peng, Yuan Sun, Dezhong Peng, Xi Peng, Xu Wang
 
-The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), Spotlight.
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025), **spotlight**.
 
 </div>
 </div>
@@ -106,19 +112,10 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
 
 **Chao Su**, Huiming Zheng, Dezhong Peng, Xu Wang
 
-Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), poster.
+Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), **poster**.
 
 </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -128,6 +125,21 @@ Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), poster.
 - *2017.09 - 2021.06*, Bachelor, College of Software Engineering, Sichuan University. 
 
 <!-- 
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
